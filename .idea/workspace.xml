@@ -5,28 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46300995-07a3-414c-837b-eb3a54ff3650" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Resources/data.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/TheTestingAcademy/base/Basepage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/TheTestingAcademy/driver/DriverManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/TheTestingAcademy/pages/PageFactory/DashBoardPage_PF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/TheTestingAcademy/pages/PageFactory/LogInPage_PF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/TheTestingAcademy/pages/PageObjectModel/DashBoardPage_POM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/TheTestingAcademy/pages/PageObjectModel/LogInPage_POM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/TheTestingAcademy/utils/Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/TheTestingAcademy/utils/ENVReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/TheTestingAcademy/utils/ExcelReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/TheTestingAcademy/utils/JSONReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/TheTestingAcademy/utils/PropertyReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/TheTestingAcademy/utils/YAMLReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/TheTestingAcademy/Vwo/LogInTest/LogInTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/TheTestingAcademy/baseTest/baseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/testNGxmls/testngParallel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/testNGxmls/testngVWO.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,9 +39,15 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/halde/IdeaProjects/SeleniumAdvancedFramework/src/test/testNGxmls"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\halde\IdeaProjects\SeleniumAdvancedFramework\src\test\testNGxmls" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
